@@ -1,5 +1,5 @@
 package mods
 
 func Add(x, y int) int {
-	return x + y + 10
+	return x + y + 100
 }
